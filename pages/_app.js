@@ -1,3 +1,4 @@
+// Here will be done the entire configuration for the state management like wallet, accounts 
 import "../styles/globals.css";
 
 export default function App({ Component, pageProps }) {
